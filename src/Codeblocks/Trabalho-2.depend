@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1701647540 source:/home/luricl/Documents/tp1/Trabalho-2/comandos.cpp
+	"comandos.h"
+
+1701645863 /home/luricl/Documents/tp1/Trabalho-2/comandos.h
+	"interfaces.h"
+	"Dominios e Entidades/dominios.h"
+	"Dominios e Entidades/entidades.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+	<cstring>
+
+1701645863 /home/luricl/Documents/tp1/Trabalho-2/interfaces.h
+	"Dominios e Entidades/dominios.h"
+	"Dominios e Entidades/entidades.h"
+	<stdexcept>
+
+1701645155 /home/luricl/Documents/tp1/Trabalho-2/Dominios e Entidades/dominios.h
+	<string>
+	<stdexcept>
+
+1701645155 /home/luricl/Documents/tp1/Trabalho-2/Dominios e Entidades/entidades.h
+	"dominios.h"
+	<string>
+	<vector>
+
+1701647540 source:/home/luricl/Documents/tp1/Trabalho-2/controladoras.cpp
+	"Dominios e Entidades/dominios.h"
+	"Dominios e Entidades/entidades.h"
+	"controladoras.h"
+	"containers.h"
+	"comandos.h"
+
+1701356007 /home/lurian/Documents/tp1/Trabalho-2/controladoras.h
+	"interfaces.h"
+	"Dominios e Entidades/dominios.h"
+	"containers.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1701645863 /home/luricl/Documents/tp1/Trabalho-2/containers.h
+	"Dominios e Entidades/dominios.h"
+	"Dominios e Entidades/entidades.h"
+	<iostream>
+	<stack>
+	<map>
+
+1701645155 source:/home/luricl/Documents/tp1/Trabalho-2/Dominios e Entidades/dominios.cpp
+	"dominios.h"
+	"cctype"
+	"exception"
+	<cstring>
+	<algorithm>
+	<set>
+	<iostream>
+
+1701645155 source:/home/luricl/Documents/tp1/Trabalho-2/stubs.cpp
+	"stubs.h"
+
+1701645155 /home/luricl/Documents/tp1/Trabalho-2/stubs.h
+	"interfaces.h"
+	<stdexcept>
+	<iostream>
+
+1701645155 source:/home/luricl/Documents/tp1/Trabalho-2/main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"Dominios e Entidades/dominios.h"
+	"Dominios e Entidades/entidades.h"
+	"interfaces.h"
+	"controladoras.h"
+	"builders.h"
+
+1701645863 /home/luricl/Documents/tp1/Trabalho-2/builders.h
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+
+1701645863 /home/luricl/Documents/tp1/Trabalho-2/controladoras.h
+	"interfaces.h"
+	"Dominios e Entidades/dominios.h"
+	"containers.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1701645155 source:/home/luricl/Documents/tp1/Trabalho-2/builders.cpp
+	"builders.h"
+
+1701645863 source:/home/luricl/Documents/tp1/Trabalho-2/containers.cpp
+	"containers.h"
+
