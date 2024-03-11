@@ -1,15 +1,19 @@
 # Quadro Kanban
 
+<p align="center">
+  <img src="./assets/quadro-Kanban.gif" alt="Demo" width="600"/>
+</p>
+
 ## Objetivo
 
-O objetivo deste projeto é aplicar os conceitos da disciplina que envolvem teste, programação orientada à objetos, padrões de projeto e arquitetura. Logo, criamos um sistema que usa um quadro com colunas como “a fazer”(to do), “fazendo”(doing) e “feito”(done). Cada tarefa é representada por um cartão que se move pelo quadro conforme o seu status, conforme o modelo Kanban de gerenciamento. 
+O objetivo deste projeto é aplicar os conceitos da disciplina que envolvem teste, programação orientada à objetos, padrões de projeto e arquitetura. Logo, criamos um sistema que usa o método kanban, com colunas como “a fazer”(to do), “fazendo”(doing) e “feito”(done). Cada tarefa é representada por um cartão que se move pelo quadro conforme o seu status, conforme o modelo Kanban de gerenciamento. 
 
 ## Intregrantes
 
-[Analyce Rayssa Silva Nunes](https://github.com/AnalyceRay)         
-[Laryssa de Oliveira Ferreira](https://github.com/laryferreira)        
-[Lurian Correia Lima](https://github.com/luricl)                 
-[Marcus Emanuel C. T. de Freitas](https://github.com/METenedini)     
+- Analyce Rayssa Silva Nunes         
+- Laryssa de Oliveira Ferreira        
+- Lurian Correia Lima                 
+- Marcus Emanuel C. T. de Freitas    
 
 ## Descrição
 
@@ -30,4 +34,4 @@ Neste sistema o usuário pode realizar as seguintes operações:
 
 ## Utilização
 
-o programa pode ser executado pela IDE Codeblocks, abrindo o arquivo "Trabalho-2.cbp"
+o programa pode ser executado pela IDE Codeblocks, abrindo o arquivo "Trabalho-2.cbp" localizado no caminho ./src/Codeblocks/, partindo do diretório raíz do projeto.
