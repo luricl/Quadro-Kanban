@@ -1,7 +1,7 @@
 # Quadro Kanban
 
 <p align="center">
-  <img src="./assets/quadro-Kanban.gif" alt="Demo" width="600"/>
+  <img src="https://github.com/luricl/Quadro-Kanban/blob/main/assets/quadro-kanban.gif" alt="Demo" width="600"/>
 </p>
 
 ## Objetivo
